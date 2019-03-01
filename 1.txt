@@ -4,4 +4,4 @@
 4.ooo vice
 5.git vice2
 6.git maste
-7.new line
+7.add
